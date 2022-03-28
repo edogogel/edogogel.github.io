@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 .jumbotron {
     padding-top: 5rem;
     background-color: #dddddd;
@@ -18,9 +20,21 @@
 }
 
 .contact i {
-    font-size: 500%;
+    font-size: 30px;
 }
 
 .projects img {
     height: 240px;
 }
+
+.sosmed a :hover{
+    opacity: 0.7;
+}
+.sosmed i {
+    font-size: 30px;
+}
+
+.kontak p {
+    font-size: 20px;
+}
+
